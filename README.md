@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to Dharsani Pazhanivel's portfolio website! This repository contains the source code for Dharsani's personal portfolio, where you can explore her projects, skills, education, and internship experiences.
+Welcome to Dharsani Pazhanivel's portfolio website! This repository contains the source code for my personal portfolio, where you can explore my projects, skills, education, and internship experiences.
 
 ## Features
 
@@ -21,14 +21,13 @@ Welcome to Dharsani Pazhanivel's portfolio website! This repository contains the
 - CSS
 - JavaScript (for animations and scroll effects)
 - Font Awesome (for icons)
-- jQuery (for DOM manipulation)
-
+  
 ## How to Use
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Dharsani14/portfolio-website.git
    ```
 
 2. Open the `index.html` file in your web browser to view the website.
